@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkversativa=self.webpackChunkversativa||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/versativa/blog","blogTitle":"Blog","authorsListPath":"/versativa/blog/authors"}')}}]);

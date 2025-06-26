@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkversativa=self.webpackChunkversativa||[]).push([[1118],{2637:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/versativa/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
