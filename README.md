@@ -4,9 +4,7 @@ description: An overview of the OneField solution for remote drone operations.
 
 # Overview of OneField
 
-### **OneField™ – The Future of Remote Drone Operations**
-
-## Overview
+## **OneField – The Future of Remote Drone Operations**
 
 OneField is a cutting-edge drone management platform designed for seamless, secure, and scalable remote operations. Whether you're overseeing agricultural surveys, infrastructure inspections, or emergency response missions, OneField empowers you to control your drone fleet from anywhere in the world.
 
