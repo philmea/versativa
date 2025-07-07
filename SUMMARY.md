@@ -8,7 +8,7 @@
 
 ## Integrations
 
-* [DJI platform integrations](integrations/dji-platform-integrations.md)
+* [DJI integration guide](integrations/dji-platform-integrations.md)
 
 ## Reference
 
