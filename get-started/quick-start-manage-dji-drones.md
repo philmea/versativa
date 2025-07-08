@@ -6,7 +6,7 @@ description: Get started using OneFile to managed DJI drones
 
 Welcome to **OneField**, your command center for remote drone operations. This guide walks you through onboarding your DJI drone and managing it with OneField’s powerful features.
 
-## ✅ **Step 1: Create Your OneField Account**
+## **Step 1: Create Your OneField Account**
 
 1. Visit onefield.io and click **Sign Up**.
 2. Choose your organization type (e.g., Agriculture, Energy, Public Safety).
@@ -14,7 +14,7 @@ Welcome to **OneField**, your command center for remote drone operations. This g
 
 ***
 
-## 🔗 **Step 2: Connect Your DJI Drone**
+## **Step 2: Connect Your DJI Drone**
 
 1. Power on your DJI drone and ensure it’s connected to the internet via DJI’s FlightHub or a compatible SDK bridge.
 2. In OneField, go to **Fleet > Add Drone**.
@@ -26,7 +26,7 @@ Welcome to **OneField**, your command center for remote drone operations. This g
 
 ***
 
-## 🧭 **Step 3: Upload or Create Flight Paths**
+## **Step 3: Upload or Create Flight Paths**
 
 1. Navigate to **Missions > Create New**.
 2. Use the map interface to draw your flight path or upload a KML/GeoJSON file.
@@ -36,7 +36,7 @@ Welcome to **OneField**, your command center for remote drone operations. This g
 
 ***
 
-## 🔄 **Step 4: Enable Remote Management**
+## **Step 4: Enable Remote Management**
 
 1. Go to **Fleet > Settings > Remote Access**.
 2. Toggle **Enable Remote Override**.
@@ -45,7 +45,7 @@ Welcome to **OneField**, your command center for remote drone operations. This g
 
 ***
 
-## 📡 **Step 5: Monitor & Control**
+## **Step 5: Monitor & Control**
 
 * Access **Live View** to see real-time video and telemetry.
 * Use the **Command Console** to:
@@ -55,7 +55,7 @@ Welcome to **OneField**, your command center for remote drone operations. This g
 
 ***
 
-### 🧩 **Advanced Integrations**
+### **Advanced Integrations**
 
 * Connect to GIS platforms like ArcGIS or QGIS.
 * Export mission data to cloud storage or analytics tools.
@@ -63,7 +63,7 @@ Welcome to **OneField**, your command center for remote drone operations. This g
 
 ***
 
-## 🛟 Support & Resources
+## Support & Resources
 
 * 📘 User Manual
 * 🎥 Video Tutorials
