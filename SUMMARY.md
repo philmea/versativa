@@ -5,6 +5,7 @@
 ## Get started
 
 * [Quick start - Manage DJI drones](get-started/quick-start-manage-dji-drones.md)
+* Placeholder
 
 ## Integrations
 
